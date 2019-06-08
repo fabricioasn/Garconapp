@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.rodrigoaraujo1709.garconapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Garçonete Só de Cenoura</name>
+    <description>Aplicativo para uso das garçonetes</description>
+    <author email="rodrigoaraujo1709@gmail.com" href="http://rodrigoaraujo1709.org">
+	    Rodrigo Araujo Leite Pereira
+	</author>
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="BackgroundColor" value="0xF2F2F2FF" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
+</widget>
